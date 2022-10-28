@@ -2,6 +2,8 @@ import { ReactNode} from 'react';
 
 export default function App (): ReactNode {
   return (
-    <>Hello world</>
+    <main className='bg-slate-500 '>
+      ??
+    </main>
   )
 }
